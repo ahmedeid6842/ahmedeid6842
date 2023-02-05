@@ -28,7 +28,7 @@ Programmer | Learner
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,graphql,mongodb,postgresql,redis"/>
     </a>
-     <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/800px-Socket-io.svg.png" width="50" height="50" alt="Socket IO" /></a>
+    <a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/800px-Socket-io.svg.png" width="50px" height="50" alt="Ethereum" /></a>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,solidity"/>
     </a>

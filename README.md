@@ -27,6 +27,8 @@ Programmer | Learner
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,graphql,mongodb,postgresql,redis,docker,kubernetes,rabbitmq,solidity,linux,git,postman"/>
     </a>
+    <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 <br />
 

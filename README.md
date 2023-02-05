@@ -32,8 +32,8 @@ Programmer | Learner
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,solidity"/>
     </a>
-    <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+    <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="50" height="50" alt="MetaMask" /></a>
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="50" height="50" alt="Ethereum" /></a>
      <img src="https://skillicons.dev/icons?i=linux,git,postman"/>
     </a><a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" width="50px" 
     <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="50px" height="50" alt="Ethereum" /></a>

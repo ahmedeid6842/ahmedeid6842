@@ -22,13 +22,21 @@ Programmer | Learner
 <a href="https://leetcode.com/ahmedeid6842/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmedeid6842/" height="30" width="40" /></a>
 </p>
 <br />
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,graphql,mongodb,postgresql,redis,docker,kubernetes,rabbitmq,solidity,linux,git,postman"/>
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,graphql,mongodb,postgresql,redis"/>
+    </a>
+     <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/800px-Socket-io.svg.png" width="50" height="50" alt="Socket IO" /></a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,solidity"/>
     </a>
     <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+     <img src="https://skillicons.dev/icons?i=linux,git,postman"/>
+    </a><a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" width="50px" 
+    <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="50px" height="50" alt="Ethereum" /></a>
 </p>
 <br />
 

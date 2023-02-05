@@ -48,4 +48,6 @@ Programmer | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedeid6842&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
+### Always Hungry for more 
+![snake gif](https://github.com/ahmedeid6842/ahmedeid6842/blob/output/github-contribution-grid-snake.gif)
 

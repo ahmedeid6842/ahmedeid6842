@@ -44,9 +44,10 @@ Programmer | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ahmedeid6842.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedeid6842&show_icons=true&locale=en&layout=compact" alt="Kazi Mahbubur Rahman" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedeid6842&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+<div align="center">
+<img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedeid6842&show_icons=true&locale=en&layout=compact&theme=merko"/> &nbsp;
+<img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=ahmedeid6842&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
+<div>
 
 ### Always Hungry for more 
 ![snake gif](https://github.com/ahmedeid6842/ahmedeid6842/blob/output/github-contribution-grid-snake.gif)

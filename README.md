@@ -9,7 +9,7 @@ Programmer | Learner
 
 - 🌱 I’m currently learning **TypeScript, TypeORM**
 
-- 💬 Ask me about **Back-end**
+- 💬 Ask me about **Back-end (Node.js)**
 
 - 📫 How to reach me **ahmedeid6842@gmail.com**
 

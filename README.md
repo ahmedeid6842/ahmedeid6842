@@ -40,10 +40,6 @@ Programmer | Learner
 </p>
 <br />
 
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ahmedeid6842.visitor-badge&left_color=blue&right_color=yellow)
-<br />
-
 <div align="center">
 <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedeid6842&show_icons=true&locale=en&layout=compact&theme=merko"/> &nbsp;
 <img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=ahmedeid6842&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>

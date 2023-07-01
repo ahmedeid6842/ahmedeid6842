@@ -7,7 +7,7 @@ Programmer | Learner
 
 - 🔭 I’m currently working on **Back-end Development**
 
-- 🌱 I’m currently learning **TypeScript, TypeORM**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Back-end (Node.js)**
 

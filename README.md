@@ -25,7 +25,7 @@ Programmer | Learner
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,graphql,mongodb,postgresql,redis"/>
+        <img src="https://skillicons.dev/icons?i=js,ts,ruby,nodejs,express,graphql,mongodb,postgresql,redis"/>
     </a>
     <a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/800px-Socket-io.svg.png" width="50px" height="50" alt="Ethereum" /></a>
     <a href="https://skillicons.dev">

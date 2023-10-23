@@ -18,7 +18,6 @@ Programmer | Learner
 <p align="left">
 <a href="https://www.linkedin.com/in/ameid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-eid-0018571b1/" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmedeid2684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedeid2684" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005045626812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005045626812" height="30" width="40" /></a>
 </p>
 <br />
 

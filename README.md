@@ -1,4 +1,15 @@
 <h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Ahmed Eid</h1>
+
+<div align="right">
+  <a href="https://visitorbadge.io/status?path=ahmedeid6842">
+    <img src="https://api.visitorbadge.io/api/visitors?path=ahmedeid6842&label=visitors&countColor=%23ffc107&style=plastic&labelStyle=upper" alt="Visitor Badge">
+  </a>
+</div>
+
+<div align="right">
+    <img src="https://aktive.kerolloz.dev/egypt/ahmedeid6842?style=plastic&color=FFC107&label=Most%20Active%20GitHub%20User%20Rank%20In%20Egypt" alt="#active user in egypt">
+</div>
+
 <h3 align="center">
 Programmer | Learner
 </h3>
